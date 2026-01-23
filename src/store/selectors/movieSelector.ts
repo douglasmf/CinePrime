@@ -10,7 +10,7 @@ export const genres = {
 };
 
 const selectAllMovies = (state: RootState) => state.movies.movies;
-const selectSearchTerm = (state: RootState) => state.movies.searchTerm;
+
 
 // Este seletor filtra a lista atual por nome enquanto o usuário digita
 // Evita requisições desnecessárias para buscas pequenas/locais
