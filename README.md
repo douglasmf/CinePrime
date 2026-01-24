@@ -15,5 +15,5 @@ CinePrime é uma aplicação web para descoberta de filmes, onde o usuário pode
 - API
 
 <p align="center">
-  <img src="/screenshot.png" width="700" alt="Screenshot do projeto">
+  <img src="./public/screenshot.png" width="700" alt="Screenshot do projeto">
 </p>  
