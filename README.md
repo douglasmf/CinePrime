@@ -2,13 +2,15 @@
 
 ## 📌 Descrição
 
-CinePrime é uma aplicação web para descoberta de filmes, onde o usuário pode navegar por títulos organizados por categorias, realizar buscas e adicionar filmes a uma lista de favoritos.
+CinePrime é uma aplicação web para descoberta de filmes, onde o usuário pode navegar por títulos organizados por categorias, realizar buscas e adicionar filmes a uma lista de favoritos.<br/>
+Site: <a href="https://cine-prime-beta.vercel.app" target="_blank">https://cine-prime-beta.vercel.app</a>
 
 ## 🚀 Tecnologias Utilizadas
 
 - HTML5  
 - CSS3  
-- JavaScript  
+- JavaScript
+- TypeScript  
 - React  
 - Redux-Toolkit
 - Styled-Components
